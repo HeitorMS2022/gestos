@@ -1,0 +1,23 @@
+body
+{
+  color: white;
+  background-image: linear-gradient(chocolate, yellow, cyan, purple);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #foto
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px;
+}
+#resultados
+{
+  color: black;
+}
+.emotionName
+{
+  font-size: 40px;
+}
